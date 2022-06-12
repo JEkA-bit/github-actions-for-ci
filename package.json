@@ -6,6 +6,7 @@
   "directories": {
     "test": "__test__",
     "src": "src"
+    //erwewrerewrewr
   },
   "scripts": {
     "build": "npx webpack --config ./src/webpack.config.js --mode production",
